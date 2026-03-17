@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si cualquier cosas, por favor cítalo de la siguiente manera:"
+authors:
+  - family-names: "Cánovas Martín"
+    given-names: "Iván"
+    orcid: "https://orcid.org/0009-0000-2144-8064" 
+title: "Energy comunities"
+version: 1.0.0
+doi: "10.5281/zenodo.19062266" # Si lo vinculas con Zenodo para obtener un DOI
+date-released: 2026-03-17
+url: "https://github.com/tu-usuario/tu-repositorio"
+repository-code: "https://github.com/PolillaElectronica/Comunidades-Energeticas-Scilab.git"
+keywords:
+  - "Comunidades Energéticas"
+  - "investigación"
+  - "UPCT"
+  - "scilab" 
+  - "Python" 
+  - "USEF" 
+license: Apache-2.0
